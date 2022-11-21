@@ -1,0 +1,136 @@
+
+
+#wallet {
+    position: absolute;
+    width: 600px;
+    height: 600px;
+    left: 0px;
+    top: 20px;
+}
+.cadastro {
+  position: absolute;
+  width: 450px;
+  height: 600px;
+  left: 850px;
+  top: -30px;
+  border-radius: none;
+  background: rgb(255, 255, 255);
+}
+
+.formcadastro {
+    text-align: center;
+  
+  }
+
+#cadastro {
+    float: right;
+}
+
+.inscricao {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 48px;
+  align-items: center;
+  
+  color: #000000;
+}
+
+#nome_cad {
+  width: 300px;
+  padding: 15px;
+  border: none;
+  background: rgba(59, 153, 255, 0.08);
+  border-radius: 20px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 15px;
+  align-items: center;
+
+  color: #000000;
+}
+
+#cpf_cad {
+  width: 300px;
+  padding: 15px;
+  border: none;
+  background: rgba(59, 153, 255, 0.08);
+  border-radius: 20px; 
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 15px;
+  align-items: center;
+
+  color: #000000; 
+}
+
+#rg_cad {
+  width: 300px;
+  padding: 15px;
+  border: none;
+  background: rgba(59, 153, 255, 0.08);
+  border-radius: 20px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 15px;
+  align-items: center;
+
+  color: #000000;
+}
+
+.senha_cad {
+  width: 300px;
+  padding: 15px;
+  border: none;
+  background: rgba(59, 153, 255, 0.08);
+  border-radius: 20px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 15px;
+  align-items: center;
+
+  color: #000000;
+}
+
+#cad {
+    position: static;
+    width: 100px;
+    height: 40px;
+    left: 940px;
+    border: 0px;
+    background: #3BFF7E;
+    border-radius: 10px;   
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 550;
+    font-size: 12px;
+    line-height: 30px;
+
+    color: #000000; 
+}
+
+.termos {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 24px;
+  font-weight: bolder;
+}
+.link {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 24px;
+  font-weight: bolder;
+}
